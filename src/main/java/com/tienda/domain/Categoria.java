@@ -25,14 +25,14 @@ public class Categoria implements Serializable {
   ruta_imagen varchar(1024),
   activo bool, */
 
-    public Categoria() {
+    /*public Categoria() {
     }
    
     public Categoria(String descripcion, boolean activo) {
         this.descripcion = descripcion;
         this.activo = activo;
     }
-    
+    */
     
     
 }
